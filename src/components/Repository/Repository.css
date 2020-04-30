@@ -1,0 +1,17 @@
+.row{
+    margin: auto;
+}
+.avatar{
+    width: 195px;
+}
+.site-card-border-less-wrapper{
+    display: flex;
+    padding: 10px;
+}
+.card{
+    height: 195px;
+    width: 80%;
+}
+.site-badge-count-109{
+    padding-right: 8px;
+}
